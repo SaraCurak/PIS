@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PISLabVj1
+namespace PIS_Vj1
 {
     class NewClass
     {

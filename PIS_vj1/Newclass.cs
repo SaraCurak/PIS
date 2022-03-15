@@ -1,15 +1,14 @@
-
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PISL_vj1
+namespace PIS_Vj1
 {
     class NewClass
     {
-        int metoda ()
+        int metoda()
         {
-            return 3;
+            return 5;
         }
     }
 }
